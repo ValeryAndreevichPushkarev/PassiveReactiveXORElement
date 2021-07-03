@@ -1,4 +1,5 @@
 That allow create computers with much lower power consumption.
+
 ***NXOR Element
 
 ![nxor](https://raw.githubusercontent.com/ValeryAndreevichPushkarev/PassiveReactiveXORElement/main/index.jpeg)
