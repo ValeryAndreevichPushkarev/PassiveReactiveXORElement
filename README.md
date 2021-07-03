@@ -1,6 +1,6 @@
 That allow create computers with much lower power consumption.
 
-***NXOR Element
+***NXOR Element***
 
 ![nxor](https://raw.githubusercontent.com/ValeryAndreevichPushkarev/PassiveReactiveXORElement/main/index.jpeg)
 
@@ -11,5 +11,5 @@ In other cases, voltage on other capacitors equals reversed voltage on the first
 That is an equivalent of the NOT (XOR) element.
 
 
-***NAND Element
+***NAND Element***
 ![nand](https://raw.githubusercontent.com/ValeryAndreevichPushkarev/PassiveReactiveXORElement/main/nand.jpeg)
