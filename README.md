@@ -14,5 +14,5 @@ That is an equivalent of the NOT (XOR) element.
 ***NAND Element***
 ![nand](https://raw.githubusercontent.com/ValeryAndreevichPushkarev/PassiveReactiveXORElement/main/nand.jpeg)
 
-TODO: Make OR, NOT elements. Make dual scheme (while first restore initial charges, the second scheme is working). Make script that generate electic net based on those elements. 
+TODO: Make OR, NOT elements. Make power consuption calculations. Make dual scheme (while first restore initial charges, the second scheme is working). Make script that generate electic net based on those elements. 
 
