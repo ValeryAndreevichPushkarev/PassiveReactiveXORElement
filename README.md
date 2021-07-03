@@ -13,3 +13,6 @@ That is an equivalent of the NOT (XOR) element.
 
 ***NAND Element***
 ![nand](https://raw.githubusercontent.com/ValeryAndreevichPushkarev/PassiveReactiveXORElement/main/nand.jpeg)
+
+TODO: Make OR, NOT elements. Make script that generate electic net based on those elements.
+Read about Dolphins, radioactivity, active and reactive power, world financial crisys and GAP
