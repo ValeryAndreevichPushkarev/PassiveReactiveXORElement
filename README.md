@@ -19,7 +19,7 @@ That is an equivalent of the NOT (XOR) element.
 ![nxor](https://raw.githubusercontent.com/ValeryAndreevichPushkarev/PassiveReactiveXORElement/main/not.jpeg)
 
 
-For 1 pF at 10 mV and 0,01 Ohm wire resistance cut off frequency is about 5*tau, or 50 femtoSecond.
+For 1 pF at 10 mV and 0,01 Ohm wire resistance switching time is about 5*tau, or 50 femtoSeconds.
 
 Power consumtion (maximum) is not grater that t*U^2/r, or less that 0,5 fJ.
 
