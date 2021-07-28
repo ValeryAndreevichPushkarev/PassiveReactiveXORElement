@@ -3,8 +3,7 @@ That allow create computers with much lower power consumption.
 
 ***NXOR Element***
 
-![nxor](https://raw.githubusercontent.com/ValeryAndreevichPushkarev/PassiveReactiveXORElement/main/index.jpeg)
-
+![nxor](https://raw.githubusercontent.com/ValeryAndreevichPushkarev/ReactiveLogicalElements/main/index.jpeg)
 
 If the first two capacitors have different voltages, the voltage on the third capacitor is equal to zero.
 In other cases, voltage on other capacitors equals reversed voltage on the first two.
@@ -13,13 +12,13 @@ That is an equivalent of the NOT (XOR) element.
 
 
 ***NAND Element***
-![nand](https://raw.githubusercontent.com/ValeryAndreevichPushkarev/PassiveReactiveXORElement/main/nand.jpeg)
+![nand](https://raw.githubusercontent.com/ValeryAndreevichPushkarev/ReactiveLogicalElements/main/nand.jpeg)
 
 ***NOT Element***
-![nxor](https://raw.githubusercontent.com/ValeryAndreevichPushkarev/PassiveReactiveXORElement/main/not.jpeg)
+![nxor](https://raw.githubusercontent.com/ValeryAndreevichPushkarev/ReactiveLogicalElements/main/not.jpeg)
 
 ***1 on N OR element***
-![or](https://raw.githubusercontent.com/ValeryAndreevichPushkarev/PassiveReactiveXORElement/main/1_of_n_or.jpeg)
+![or](https://raw.githubusercontent.com/ValeryAndreevichPushkarev/ReactiveLogicalElements/main/1_of_n_or.jpeg)
 
 For 1 pF at 10 mV and 0,01 Ohm wire resistance switching time is about 5*tau, or 50 femtoSeconds.
 
