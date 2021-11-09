@@ -16,7 +16,7 @@ Power consumtion (maximum) is not grater that t*U^2/r, or less that 0,5 fJ.
 
 
 TODO: 
-Try to represent positional encoding with C=A&!B functions.
+Try to represent positional encoding with C=A&!B functions and OR operation implemented with merge transistors current (n transistors in parallel that drived by capacitor scheme).
 Read about Quantum Well.
 Define initial states.
 
